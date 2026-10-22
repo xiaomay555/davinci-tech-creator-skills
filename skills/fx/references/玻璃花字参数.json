@@ -1,0 +1,111 @@
+{
+  "font_file": "极影毁片圆.ttf",
+  "family": "极影毁片圆 Medium",
+  "resolve_family_alias": "????? Medium",
+  "style": "Undefined",
+  "scope": "2026-10-17 用户最终双条玻璃花字；非跨项目固定坐标",
+  "titles": [
+    {
+      "name": "清单01_先找参考Skill",
+      "start": 109429,
+      "end": 109527,
+      "track": [
+        "video",
+        6
+      ],
+      "inputs": {
+        "StyledText": "01  先找参考的 Skill",
+        "Font": "????? Medium",
+        "Style": "Undefined",
+        "Size": 0.04,
+        "Center": {
+          "1": 0.2,
+          "2": 0.67,
+          "3": 0.0
+        },
+        "Red1": 1.0,
+        "Green1": 1.0,
+        "Blue1": 1.0,
+        "Alpha1": 1.0,
+        "Enabled2": 0.0,
+        "Enabled3": 0.0,
+        "HorizontalJustificationNew": 3.0,
+        "VerticalJustificationNew": 3.0,
+        "LineSpacing": 1.0
+      },
+      "clip_transform": {
+        "Pan": 18.0,
+        "Tilt": -40.000000000000014,
+        "ZoomX": 1.0,
+        "ZoomY": 1.0
+      }
+    },
+    {
+      "name": "清单02_完善自己的Skill",
+      "start": 109490,
+      "end": 109527,
+      "track": [
+        "video",
+        5
+      ],
+      "inputs": {
+        "StyledText": "02  完善自己的 Skill",
+        "Font": "????? Medium",
+        "Style": "Undefined",
+        "Size": 0.04,
+        "Center": {
+          "1": 0.2,
+          "2": 0.49,
+          "3": 0.0
+        },
+        "Red1": 1.0,
+        "Green1": 1.0,
+        "Blue1": 1.0,
+        "Alpha1": 1.0,
+        "Enabled2": 0.0,
+        "Enabled3": 0.0,
+        "HorizontalJustificationNew": 3.0,
+        "VerticalJustificationNew": 3.0,
+        "LineSpacing": 3.0
+      },
+      "clip_transform": {
+        "Pan": 14.0,
+        "Tilt": -16.999999999999993,
+        "ZoomX": 1.0,
+        "ZoomY": 1.0
+      }
+    }
+  ],
+  "glass": {
+    "玻璃框01_先找参考": {
+      "Input600": {
+        "1": 0.214471726190476,
+        "2": 0.631117724867725,
+        "3": 0.0
+      },
+      "Input10": 0.330357142857143,
+      "Input12": 0.09375,
+      "Input14": 0.0
+    },
+    "第二条玻璃_填充范围": {
+      "Center": {
+        "1": 0.214471726190476,
+        "2": 0.470403439153439,
+        "3": 0.0
+      },
+      "Width": 0.330357142857143,
+      "Height": 0.09375,
+      "CornerRadius": 0.1
+    },
+    "第二条玻璃_边框范围": {
+      "Center": {
+        "1": 0.214471726190476,
+        "2": 0.470403439153439,
+        "3": 0.0
+      },
+      "Width": 0.330357142857143,
+      "Height": 0.09375,
+      "CornerRadius": 0.1
+    }
+  }
+}
