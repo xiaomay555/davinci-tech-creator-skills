@@ -1,0 +1,31 @@
+# Credentials and local configuration
+secrets/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+# Generated files and personal project data
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+.venv/
+venv/
+node_modules/
+.pytest_cache/
+*.log
+tmp/
+temp/
+output/
+outputs/
+learning/
+assets/sfx/
+assets/fonts/
+经验/
+团队接入包/
+正在修改中.txt
+*.drp
+*.drt
+*.resolvedbkey
